@@ -1,4 +1,7 @@
 # BART test no Qualtrics
+Repositório com códigos adaptados e imagens utilizadas no estudo.
+
+# Códigos e objetos disponíveis
 - Código HTML
 - Código Javascript (dentro da pergunta do Qualtrics)
 - Survey flow do Qualtrics
