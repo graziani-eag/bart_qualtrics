@@ -7,7 +7,7 @@ Repositório com códigos adaptados e imagens utilizadas no estudo.
 - Código Javascript (dentro da pergunta do Qualtrics)
 - Survey flow do Qualtrics
 - Figuras balão
-- Figuras imagens
+- Figuras imagens de fundo
 
 # Referências de códigos
 Os links abaixo serviram como base para estruturação do código e implementação do BART test dentro do Qualtrics.
