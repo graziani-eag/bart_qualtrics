@@ -1,2 +1,10 @@
-# bart_qualtrics
-BART test in javascript inside Qualtrics
+# BART test no Qualtrics
+- Código HTML;
+- Código Javascript (dentro do Qualtrics);
+- Figuras balão
+- Figuras imagens
+
+# Referências
+
+LEJUEZ, C. W.; RICHARDS, Jerry B.; READ, Jennifer P.; KAHLER, Christopher W.; RAMSEY, Susan E.; STUART, Gregory L.; STRONG, David R.; BROWN, Richard A. Evaluation of a behavioral measure of risk taking: The balloon analogue risk task (BART). Journal of Experimental Psychology: Applied, [S. l.], v. 8, n. 2, p. 75–84, 2002. DOI: 10.1037/1076-898X.8.2.75.!
+
