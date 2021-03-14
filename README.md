@@ -1,6 +1,7 @@
 # BART test no Qualtrics
-- Código HTML;
-- Código Javascript (dentro do Qualtrics);
+- Código HTML
+- Código Javascript (dentro do Qualtrics)
+- Shurvey flow do Qualtrics
 - Figuras balão
 - Figuras imagens
 
